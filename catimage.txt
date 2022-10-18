@@ -1,0 +1,6 @@
+<html>
+  <body>
+    <h1>CatPhotoApp</h1>
+    <img scr="https://images.livemint.com/img/2022/08/01/1600x900/Cat-andriyko-podilnyk-RCfi7vgJjUY-unsplash_1659328989095_1659328998370_1659328998370.jpg">
+  </body>
+</html>
